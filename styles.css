@@ -33,10 +33,22 @@ body {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+  }
+  
+  #start {
     background-color: #4caf50;
     color: white;
   }
   
-  button:hover {
+  #start:hover {
     background-color: #45a049;
+  }
+  
+  #pause {
+    background-color: #ff9800;
+    color: white;
+  }
+  
+  #pause:hover {
+    background-color: #f57c00;
   }
